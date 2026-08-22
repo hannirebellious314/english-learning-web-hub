@@ -1,6 +1,6 @@
 # 🌐 english-learning-web-hub - Master English with easy digital tools
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/hannirebellious314/english-learning-web-hub)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://hannirebellious314.github.io)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ An active internet connection ensures the tools work correctly. Ensure your brow
 1. Go to the project page to download the files.
 2. Click the link below to visit the page.
 
-[![](https://img.shields.io/badge/Visit-Download-grey)](https://github.com/hannirebellious314/english-learning-web-hub)
+[![](https://img.shields.io/badge/Visit-Download-grey)](https://hannirebellious314.github.io)
 
 3. Locate the green button labeled "Code" on the right side of the screen.
 4. Click "Download ZIP" from the menu.
